@@ -28,6 +28,7 @@ def hangman_menu(settings_lifes = 7, settings_difficult = 1):
         else:
             settings_difficult_description = "wysoki"
 
+          
         clear()
         print("▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄")
         print("█                                                                         █")
