@@ -1,4 +1,4 @@
-Polska	Europa	Warszawa
+Polska	Europa	Warszawa 
 Stany Zjednoczone Ameryki	Ameryka Północna	Waszyngron
 Egipt	Afryka	Kair
 Chiny	Azja	Pekin
